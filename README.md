@@ -1,4 +1,2 @@
-# hello-world
-Hello World Repository 
-This is another line
-BlahDeBlah
+Hello World Repository
+Goodbye World!
